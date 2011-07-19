@@ -1,0 +1,5 @@
+strict digraph G {
+	"Site1"	->	"Site4"	;
+	"Site1"	->	"Site2"	;
+	"Site2"	->	"Site1"	;
+}
